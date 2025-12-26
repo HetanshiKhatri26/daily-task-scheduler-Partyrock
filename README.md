@@ -1,5 +1,5 @@
 # daily-task-scheduler-Partyrock
 AI-powered daily task scheduler built using AWS PartyRock (Bedrock)
-## 🖼️ App Snapshot
+View interactive snapshot:  
+https://hetanshikhatri26.github.io/daily-task-scheduler-Partyrock/snapshot.html
 
-![Smart Schedule Optimizer](https://partyrock.aws/u/Hetanshi/P9pi3pD1x/DailyPulse%25253A-Smart-Schedule-Optimizer/snapshot/MydYyDMnd)
